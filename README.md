@@ -64,3 +64,5 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 * Review Discount Policy – Balance sales boosts with margin control.
 * Product Positioning – Highlight top-rated and best-selling products in campaigns.
 * Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping users.
+  
+![Power BI Dashboard](https://github.com/Prajin-Kamble/Customer-Shopping-Behavior-Analysis/blob/main/screenshots/Snapshot%20of%20the%20dashboard.png)
