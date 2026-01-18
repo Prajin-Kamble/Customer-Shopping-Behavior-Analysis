@@ -65,4 +65,4 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 * Product Positioning – Highlight top-rated and best-selling products in campaigns.
 * Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping users.
   
-![Power BI Dashboard](https://github.com/Prajin-Kamble/Customer-Shopping-Behavior-Analysis/blob/main/screenshots/Snapshot%20of%20the%20dashboard.png)
+![Power BI Dashboard](https://github.com/Prajin-Kamble/Customer-Shopping-Behavior-Analysis/blob/main/screenshots/snapshot%20of%20the%20dashboard.png)
